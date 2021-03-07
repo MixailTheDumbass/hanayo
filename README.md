@@ -4,3 +4,5 @@ this frontend serves as the primary way to access osuHOW's website. this will ev
 
 - [see Figma concepts](https://www.figma.com/file/CIfpZy5PjPOpK5VjfXXZKs/osuHOW-V2)
 - [see Trello outline](https://trello.com/b/rFccjrvS/osuhow-v2)
+
+This is not mine, forked cuz im making Russian version.
